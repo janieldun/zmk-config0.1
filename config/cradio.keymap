@@ -66,7 +66,7 @@
             &kp ESC      &kp Q      &kp W      &kp E      &kp R          &kp 7      &kp 8      &kp 9   &kp SLASH   &kp ASTERISK
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│  SHIFT   │  A       │  S       │  D       │  F       │   │  4       │  5       │  6       │    -     │ ENTER    │
-            &kp LSHIFT  &kp A      &kp S     &kp D       &kp F          &kp 4      &kp 5     &kp 6     &kp MINUS   &kp ENTE
+            &kp LSHIFT  &kp A      &kp S     &kp D       &kp F          &kp 4      &kp 5     &kp 6     &kp MINUS   &kp ENTER
         //├──────────┼──────────┼──────────┼──────────┼──────────┤   ├──────────┼──────────┼──────────┼──────────┼──────────┤
         //│    CTRL  │  Z       │    X     │     C    │    V     │   │    1     │    2     │   3      │  +       │ ENTER    │
             &kp LCTRL      &kp Z      &kp X      &kp C      &kp V        &kp 1      &kp 2      &kp 3  &kp PLUS    &kp ENTER
